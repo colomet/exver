@@ -12,16 +12,16 @@ Index of pages:
 
 # About
 
-The Explicit Versioning is created by Antonio Devís following the recomendations
+The PHP CMS Versioning is created by Antonio Devís following the recomendations
 of [Sapioit](https://medium.com/sapioit/why-having-3-numbers-in-the-version-name-is-bad-92fc1f6bc73c)
 and [exadra37](https://github.com/exadra37-versioning/semantic-versioning).
 
-The Explicit Versioning is a fork of Semantic Versioning specification is authored by 
+The PHP CMS Versioning is a fork of [Semantic Versioning](http://semver.org/) specification is authored by 
 [TomPreston-Werner](http://tom.preston-werner.com), inventor of Gravatars and
 cofounder of GitHub.
 
 If you'd like to leave feedback, please [open an issue on
-GitHub](https://github.com/mojombo/semver/issues).
+GitHub](https://github.com/colomet/php-cms-versioning/issues).
 
 
 # License
@@ -31,7 +31,7 @@ GitHub](https://github.com/mojombo/semver/issues).
 
 # Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with PHP CMS Versioning? Check out our [issues](https://github.com/colomet/php-cms-versioning/issues)pages or [contact me](https://www.linkedin.com/in/antonio-devis-lopez/) and we’ll help you sort it out.
 
 
 
