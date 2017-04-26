@@ -2,12 +2,11 @@ Index of pages:
 ---------------
 
 * [Summary](/README.md)
-* [Introduction](/README.html)
+* [Introduction](/README.md)
 * [PHP CMS Versioning (PHPVer)](/VERSIONING.md)
 * [Why Explicit Versioning](/WHY.md)
 * [FAQ](/FAQ.md)
 * [ABOUT](/ABOUT.md)
-* [WHY](/WHY.md)
 
 
 # About

@@ -7,7 +7,6 @@ Index of pages:
 * [Why Explicit Versioning](/WHY.md)
 * [FAQ](/FAQ.md)
 * [ABOUT](/ABOUT.md)
-* [WHY](/WHY.md)
 
 
 # PHP CMS Versioning (PHPVer)
