@@ -1,8 +1,3 @@
----
-title: Explicit Versioning 1.0
-redirect_from: /lang/en/
----
-
 Explicit Versioning 1.0.0.0
 ==============================
 
