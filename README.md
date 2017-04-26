@@ -24,7 +24,7 @@ Given a version number RELEASE.ENHANCED.FEATURE.PATCH, increment the:
 
 Additional labels for pre-release, release candidate and build metadata are available as extensions to the RELEASE.ENHANCED.FEATURE.PATCH format.
 
-If you'd like to leave feedback, please [open an issue on GitHub](https://github.com/colomet/php-cms-versioning/issues).
+**If you'd like to leave feedback, please [open an issue on GitHub](https://github.com/colomet/php-cms-versioning/issues).**
 
 Given 1.0.0.0 as the first version for a Production Release:
 
