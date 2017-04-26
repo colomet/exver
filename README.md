@@ -23,9 +23,12 @@ Additional labels for pre-release and build metadata are available as extensions
 Given 1.0.0.0 as the first version for a Production Release:
 
 * RELEASE:
-  * Major Code Overhaul that impacts a significant number of end points or the Public Api will increment version to 2.0.0.0.
+  * Major Code Overhaul that impacts a significant number of end points in the Public Api will increment version to 2.0.0.0.
+  * Major UX change that impacts in a significant way the usability will increment version to 2.0.0.0.
 * BREAKING:
   * Any Breaking Code Change will increment version to 1.1.0.0.
+  * UX change that impacts the usability will increment version to 1.1.0.0.
+  
 * FEATURE:
   * New Features will increment version to 1.0.1.0.
   * Refracting Code that do not impact Public Api will increment version to 1.0.1.0.
