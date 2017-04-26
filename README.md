@@ -4,14 +4,14 @@ Explicit Versioning 1.0.0.0
 Index of pages:
 ---------------
 
-* [Summary] [link text](##Summary)
+* [Summary] [link text](#Summary)
 * [Introduction]
 * [Explicit Versioning (ExVer)]
 * [Why Explicit Versioning](/WHY.md)
 * [FAQ](/FAQ.md)
 * [ABOUT](/ABOUT.md)
 
-<a name="Summary"></a>
+## <a name="Summary"></a>Summary
 -------
 
 Given a version number MAJOR.MINOR.PATCH, increment the:
