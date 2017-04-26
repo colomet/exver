@@ -1,4 +1,4 @@
-# - PHP CMS Versioning DRAFT VERSION -
+# - PHP CMS Versioning DRAFT -
 
 Index of pages:
 ---------------
@@ -10,7 +10,7 @@ Index of pages:
 * [FAQ](/FAQ.md)
 * [ABOUT](/ABOUT.md)
 
-# - PHP CMS Versioning DRAFT VERSION -
+# - PHP CMS Versioning DRAFT -
 
 
 # <a name="Summary"></a>Summary
@@ -41,7 +41,7 @@ Given 1.0.0.0 as the first version for a Production Release:
   * Security Fix(es) will increment version to 1.0.0.1.
   * Bug Fix(es) will increment version to 1.0.0.1.
   
-# - PHP CMS Versioning DRAFT VERSION -  
+# - PHP CMS Versioning DRAFT -  
 
 # <a name="Introduction"></a>Introduction
 
