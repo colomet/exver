@@ -11,7 +11,7 @@ Index of pages:
 * [FAQ](/FAQ.md)
 * [ABOUT](/ABOUT.md)
 
-## Summary
+<a name="Summary"></a>
 -------
 
 Given a version number MAJOR.MINOR.PATCH, increment the:
