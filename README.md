@@ -1,9 +1,9 @@
 Index of pages:
 ---------------
 
-* [Summary](#Summary)
-* [Introduction](#Introduction)
-* [PHP CMS Versioning (PHPVer)](VERSIONING.md)
+* [Summary](/README.md#Summary)
+* [Introduction](/README.md#Introduction)
+* [PHP CMS Versioning (PHPVer)](/VERSIONING.md)
 * [Why Explicit Versioning](/WHY.md)
 * [FAQ](/FAQ.md)
 * [ABOUT](/ABOUT.md)
@@ -56,4 +56,7 @@ I call this system "Semantic Versioning." Under this scheme, version numbers
 and the way they change convey meaning about the underlying code and what has
 been modified from one version to the next.
 
-[Start](./)
+
+
+
+[Start page](./)

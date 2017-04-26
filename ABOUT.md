@@ -1,9 +1,9 @@
 Index of pages:
 ---------------
 
-* [Summary](README.html/#Summary)
-* [Introduction](README.html/#Introduction)
-* [PHP CMS Versioning (PHPVer)](VERSIONING.md)
+* [Summary](/README.md)
+* [Introduction](/README.html)
+* [PHP CMS Versioning (PHPVer)](/VERSIONING.md)
 * [Why Explicit Versioning](/WHY.md)
 * [FAQ](/FAQ.md)
 * [ABOUT](/ABOUT.md)
@@ -33,4 +33,7 @@ GitHub](https://github.com/mojombo/semver/issues).
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-[Start](./)
+
+
+
+[Start page](./)

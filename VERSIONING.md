@@ -1,9 +1,9 @@
 Index of pages:
 ---------------
 
-* [Summary](#Summary)
-* [Introduction](#Introduction)
-* [PHP CMS Versioning (PHPVer)](VERSIONING.md)
+* [Summary](/README.md)
+* [Introduction](/README.md)
+* [PHP CMS Versioning (PHPVer)](/VERSIONING.md)
 * [Why Explicit Versioning](/WHY.md)
 * [FAQ](/FAQ.md)
 * [ABOUT](/ABOUT.md)
@@ -95,4 +95,8 @@ precedence than a smaller set, if all of the preceding identifiers are equal.
 Example: 1.0.0-alpha < 1.0.0-alpha.1 < 1.0.0-alpha.beta < 1.0.0-beta <
 1.0.0-beta.2 < 1.0.0-beta.11 < 1.0.0-rc.1 < 1.0.0.
 
-[Start](./)
+
+
+
+[Start page](./)
+

@@ -1,9 +1,9 @@
 Index of pages:
 ---------------
 
-* [Summary](#Summary)
-* [Introduction](#Introduction)
-* [PHP CMS Versioning (PHPVer)](VERSIONING.md)
+* [Summary](/README.md)
+* [Introduction](/README.md)
+* [PHP CMS Versioning (PHPVer)](/VERSIONING.md)
 * [Why Explicit Versioning](/WHY.md)
 * [FAQ](/FAQ.md)
 * [ABOUT](/ABOUT.md)
@@ -42,4 +42,7 @@ Versioning is to declare that you are doing so and then follow the rules. Link
 to this website from your README so others know the rules and can benefit from
 them.
 
-[Start](./)
+
+
+
+[Start page](./)

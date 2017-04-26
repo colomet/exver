@@ -1,9 +1,9 @@
 Index of pages:
 ---------------
 
-* [Summary](#Summary)
-* [Introduction](#Introduction)
-* [PHP CMS Versioning (PHPVer)](VERSIONING.md)
+* [Summary](/README.md)
+* [Introduction](/README.html)
+* [PHP CMS Versioning (PHPVer)](/VERSIONING.md)
 * [Why Explicit Versioning](/WHY.md)
 * [FAQ](/FAQ.md)
 * [ABOUT](/ABOUT.md)
@@ -94,4 +94,8 @@ No, but use good judgment. A 255 character version string is probably overkill,
 for example. Also, specific systems may impose their own limits on the size of
 the string.
 
-[Start](./)
+
+
+
+[Start page](./)
+
