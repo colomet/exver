@@ -1,8 +1,8 @@
 Index of pages:
 ---------------
 
-* [Summary](README/#Summary)
-* [Introduction](README/#Introduction)
+* [Summary](README.html/#Summary)
+* [Introduction](README.html/#Introduction)
 * [PHP CMS Versioning (PHPVer)](VERSIONING.md)
 * [Why Explicit Versioning](/WHY.md)
 * [FAQ](/FAQ.md)
