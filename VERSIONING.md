@@ -11,16 +11,14 @@ Index of pages:
 
 # PHP CMS Versioning (PHPVer)
 
-The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD",
-"SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be
-interpreted as described in [RFC 2119](http://tools.ietf.org/html/rfc2119).
+The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119](http://tools.ietf.org/html/rfc2119).
 
 1. Software using Semantic Versioning MUST declare a public API. This API
 could be declared in the code itself or exist strictly in documentation.
 However it is done, it should be precise and comprehensive.
 
 1. A normal version number MUST take the form W.X.Y.Z where W, X, Y, and Z are
-non-negative integers, and MUST NOT contain leading zeroes. X is the major version, Y is the minor version, and Z is the patch version.
+non-negative integers, and MUST NOT contain leading zeroes. W is the RELEASE version, X is the ENHANCED version, Y is the FEATURE version, and Z is the PATCH version.
 Each element MUST increase numerically. For instance: 1.9.0.0 -> 1.10.0.0 -> 1.10.0.1.
 
 1. Once a versioned package has been released, the contents of that version
@@ -35,15 +33,15 @@ is incremented after this release is dependent on this public API and how it cha
 1. Patch version Z (w.x.y.Z | w > 0) MUST be incremented if only backwards
 compatible bug fixes are introduced. A bug fix is defined as an internal change that fixes incorrect behavior.
 
-1. Minor version Y (w.x.Y.z | w > 0) MUST be incremented if new, backwards
-compatible functionality is introduced . It MUST be incremented if any public API functionality is marked as deprecated. It MAY be incremented if substantial new functionality or improvements are introduced within the private code. It MAY include patch level changes. Patch version MUST be reset to 0 when minor version is incremented.
+1. FEATURE version Y (w.x.Y.z | w > 0) MUST be incremented if new, backwards
+compatible functionality is introducedENHANCED. It MAY include PATCH level changes. PATCH version MUST be reset to 0 when FEATURE version is incremented.
 
-1. Minor version X (w.X.y.z | w > 0) MUST be incremented if new, backwards
-incompatible functionality is introduced. It MUST be incremented if any public API functionality is marked as deprecated. It MAY be incremented if substantial new functionality or improvements are introduced within the private code. It MAY include patch level changes. Patch version MUST be reset to 0 when minor version is incremented.
+1. ENHANCED version X (w.X.y.z | w > 0) MUST be incremented if new, backwards
+incompatible functionality is introduced. It MUST be incremented if any public API functionality is marked as deprecated. It MAY be incremented if substantial new functionality or improvements are introduced within the private code. It MAY include FEATURES and PATCH level changes. PATCH and FEATURE version MUST be reset to 0 when ENHANCED version is incremented.
 
 1. RELEASE version W (W.x.y.z | w > 0) MUST be incremented if any backwards
-incompatible changes are introduced to the public API. It MAY include minor and patch level changes. Patch and minor version MUST be reset to 0 when major version is incremented.
-
+incompatible changes are introduced to the public API. It MAY include ENHANCED, FEATURE and PATCH level changes. PATCH, FEATURES and ENHANCED version MUST be reset to 0 when RELEASE version is incremented.
+---
 1. A pre-release version MAY be denoted by appending a hyphen and a
 series of dot separated identifiers immediately following the patch version. Identifiers MUST comprise only ASCII alphanumerics and hyphen [0-9A-Za-z-]. Identifiers MUST NOT be empty. Numeric identifiers MUST NOT include leading zeroes. Pre-release versions have a lower precedence than the associated normal version. A pre-release version indicates that the version is unstable and might not satisfy the intended compatibility requirements as denoted by its associated normal version.
 Examples: 1.0.0-alpha, 1.0.0-alpha.1, 1.0.0-0.3.7,1.0.0-x.7.z.92.
