@@ -21,6 +21,21 @@ Given a version number MAJOR.MINOR.PATCH, increment the:
 Additional labels for pre-release and build metadata are available as extensions 
 to the RELEASE.BREAKING.FEATURE.PATCH format.
 
+Given 1.0.0.0 as the first version for a Production Release:
+
+* RELEASE:
+  * Major Code Overhaul that impacts a significant number of end points or the Public Api will increment version to 2.0.0.0.
+* BREAKING:
+  * Any Breaking Code Change will increment version to 1.1.0.0.
+* FEATURE:
+  * New Features will increment version to 1.0.1.0.
+  * Refracting Code that do not impact Public Api will increment version to 1.0.1.0.
+  * Deprecating Code that do not impact Public Api will increment version to 1.0.1.0.
+  * Removing Code that do not impact Public Api will increment version to 1.0.1.0.
+* PATCH:
+  * Security Fix(es) will increment version to 1.0.0.1.
+  * Bug Fix(es) will increment version to 1.0.0.1.
+
 # <a name="Introduction"></a>Introduction
 
 In the world of software management there exists a dread place called
