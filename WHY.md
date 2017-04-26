@@ -1,4 +1,3 @@
-
 Index of pages:
 ---------------
 
@@ -10,8 +9,8 @@ Index of pages:
 * [ABOUT](/ABOUT.md)
 * [WHY](/WHY.md)
 
-Why Use Explicit Versioning?
-----------------------------
+
+# Why Use PHP CMS Versioning?
 
 This is not a new or revolutionary idea. In fact, you probably do something
 close to this already. The problem is that "close" isn't good enough. Without

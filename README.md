@@ -1,6 +1,3 @@
-PHP CMS Versioning 1.0.0.0
-==============================
-
 Index of pages:
 ---------------
 
@@ -12,7 +9,8 @@ Index of pages:
 * [ABOUT](/ABOUT.md)
 * [WHY](/WHY.md)
 
-## <a name="Summary"></a>Summary
+
+# <a name="Summary"></a>Summary
 
 Given a version number MAJOR.MINOR.PATCH, increment the:
 
@@ -24,7 +22,7 @@ Given a version number MAJOR.MINOR.PATCH, increment the:
 Additional labels for pre-release and build metadata are available as extensions 
 to the RELEASE.BREAKING.FEATURE.PATCH format.
 
-## <a name="Introduction"></a>Introduction
+# <a name="Introduction"></a>Introduction
 
 In the world of software management there exists a dread place called
 "dependency hell." The bigger your system grows and the more packages you
