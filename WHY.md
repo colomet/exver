@@ -1,12 +1,14 @@
+
 Index of pages:
 ---------------
 
-* [Summary]
-* [Introduction]
-* [Explicit Versioning (ExVer)]
+* [Summary](#Summary)
+* [Introduction](#Introduction)
+* [PHP CMS Versioning (PHPVer)](VERSIONING.md)
 * [Why Explicit Versioning](/WHY.md)
 * [FAQ](/FAQ.md)
 * [ABOUT](/ABOUT.md)
+* [WHY](/WHY.md)
 
 Why Use Explicit Versioning?
 ----------------------------
