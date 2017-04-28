@@ -1,6 +1,6 @@
-# The name of PHP CMS Versioning change to [CMS Versioning (CMSver)](https://colomet.github.io/CMSver/)
+# The name of PHP CMS Versioning change to [CMS Versioning (CMSver)](https://github.com/Software-Development-Guidelines/CMSver)
 
 # that´s why now we host in a different repository
 
 
-[https://colomet.github.io/CMSver/](https://colomet.github.io/CMSver/)
+[https://github.com/Software-Development-Guidelines/CMSver](https://github.com/Software-Development-Guidelines/CMSver)
